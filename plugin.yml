@@ -1,0 +1,14 @@
+---
+name: Customgui
+main: NetherByte\Customgui\Customgui
+version: 1.0.0
+author: NetherByte
+description: Custom GUIs with in-game action management for PocketMine-MP 5.x
+api: [5.0.0]
+permissions:
+  cg.use:
+    description: "Allows use of /customgui command"
+    default: true
+  cg.admin:
+    description: "Allows access to the GUI management menu"
+    default: op
