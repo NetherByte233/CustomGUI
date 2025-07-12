@@ -43,6 +43,7 @@ A powerful and flexible custom GUI system for PocketMine-MP 5.x that allows serv
 ### 1. Download the Plugin
 1. Download the latest release from the releases page
 2. Extract the plugin files to your server's `plugins` folder
+    Download:- https://poggit.pmmp.io/p/Customgui/1.0.0
 
 ### 2. Install Dependencies
 The plugin includes all necessary libraries:
