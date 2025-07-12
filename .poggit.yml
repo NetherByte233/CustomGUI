@@ -1,0 +1,12 @@
+projects:
+  CustomGUI:
+    path: ""
+    type: plugin
+    name: CustomGUI
+    version: 1.0.0
+    api:
+      - 5.0.0
+    php:
+      - 8.1
+
+    icon: "icon.jpg"
