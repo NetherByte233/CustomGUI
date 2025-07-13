@@ -207,7 +207,7 @@ Create a welcome menu with navigation options:
    - Item: Emerald
    - Action: Open GUI "shop_menu"
    - Lore: "§a§lSHOP§r\n§7Click to open the shop"
-
+   ![Alt Text](https://github.com/NetherByte233/CustomGUI/blob/main/resources/shop.jpg) -->  ![Alt Text](https://github.com/NetherByte233/CustomGUI/blob/main/resources/shop_menu.jpg)
 3. **Rules Button**
    - Item: Book
    - Action: Command "rules"
