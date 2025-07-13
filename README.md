@@ -215,7 +215,9 @@ Create a welcome menu with navigation options:
    - Item: Book
    - Action: Command "rules"
    - Lore: "§e§lRULES§r\n§7Click to view server rules
-   - ![Alt Text](https://github.com/NetherByte233/CustomGUI/blob/main/resources/rules.jpg)
+   <p align="center">
+  <img src="https://github.com/NetherByte233/CustomGUI/blob/main/resources/rules.jpg?raw=true" width="60%" />
+</p>
 
 ### Admin Panel GUI
 Create an admin panel with management tools:
