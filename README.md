@@ -201,7 +201,7 @@ Create a welcome menu with navigation options:
    - Item: Compass
    - Action: Teleport to spawn coordinates
    - Lore: "§a§lSPAWN§r\n§7Click to return to spawn"
-   - ![Alt Text](https://raw.githubusercontent.com/NetehrByte233/CustomGUI/main/resources/spawn.jpg)
+   - ![Alt Text](https://github.com/Ifera/ScoreHud/blob/master/meta/ScoreHud.PNG)
 
 2. **Shop Button**
    - Item: Emerald
