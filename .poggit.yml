@@ -4,5 +4,7 @@ branches:
 - main
 projects:
   CustomGUI:
-    path: "resources/icon.png"
+    path: ""
+
+     icon: "resources/icon.png"
 ...
