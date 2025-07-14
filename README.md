@@ -218,7 +218,7 @@ Create a welcome menu with navigation options:
    - Action: Command "rules"
    - Lore: "§e§lRULES§r\n§7Click to view server rules
    <p align="center">
-  <img src="https://github.com/NetherByte233/CustomGUI/blob/main/resources/examples/rules.jpg?raw=true" width="80%" />
+  <img src="https://github.com/NetherByte233/images/blob/main/rules.jpg?raw=true" width="80%" />
 </p>
 
 ### Admin Panel GUI
