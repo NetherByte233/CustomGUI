@@ -201,7 +201,7 @@ Create a welcome menu with navigation options:
    - Item: Compass
    - Action: Teleport to spawn coordinates
    - Lore: "§a§lSPAWN§r\n§7Click to return to spawn"
-   - <p align="center">
+     <p align="center">
   <img src="https://github.com/NetherByte233/CustomGUI/blob/main/resources/examples/spawn.jpg?raw=true" width="80%" />
 </p>
 
