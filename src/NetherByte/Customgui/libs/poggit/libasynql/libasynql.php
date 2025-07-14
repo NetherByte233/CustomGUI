@@ -55,7 +55,7 @@ final class libasynql{
 		self::$packaged = __CLASS__ !== 'poggit\libasynql\libasynql';
 
 		if(!self::$packaged && defined("pocketmine\\VERSION")){
-			$plugin->getLogger()->info(§e"Warning: Use of unshaded libasynql detected. Debug mode is enabled. This may lead to major performance drop. Please use a shaded package in production. See https://poggit.pmmp.io/virion for more information.");
+			$plugin->getLogger()->info("Warning: Use of unshaded libasynql detected. Debug mode is enabled. This may lead to major performance drop. Please use a shaded package in production. See https://poggit.pmmp.io/virion for more information.");
 		}
 	}
 
