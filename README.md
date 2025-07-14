@@ -202,7 +202,7 @@ Create a welcome menu with navigation options:
    - Action: Teleport to spawn coordinates
    - Lore: "§a§lSPAWN§r\n§7Click to return to spawn"
      <p align="center">
-  <img src="https://github.com/NetherByte233/CustomGUI/blob/main/resources/examples/spawn.jpg?raw=true" width="80%" />
+  <img src="https://github.com/NetherByte233/images/blob/main/spawn.jpg?raw=true" width="80%" />
 </p>
 
 2. **Shop Button**
@@ -210,8 +210,8 @@ Create a welcome menu with navigation options:
    - Action: Open GUI "shop_menu"
    - Lore: "§a§lSHOP§r\n§7Click to open the shop"
   <p align="center">
-  <img src="https://github.com/NetherByte233/CustomGUI/blob/main/resources/examples/shop.jpg?raw=true" width="45%" />
-  <img src="https://github.com/NetherByte233/CustomGUI/blob/main/resources/examples/shop_menu.jpg?raw=true" width="45%" />
+  <img src="https://github.com/NetherByte233/images/blob/main/shop.jpg?raw=true" width="45%" />
+  <img src="https://github.com/NetherByte233/images/blob/main/shop_menu.jpg?raw=true" width="45%" />
 </p>
 3. **Rules Button**
    - Item: Book
