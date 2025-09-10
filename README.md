@@ -1,5 +1,5 @@
 # CustomGUI Plugin
-
+[![](https://poggit.pmmp.io/shield.state/Customgui)](https://poggit.pmmp.io/p/Customgui) [![](https://poggit.pmmp.io/shield.dl.total/Customgui)](https://poggit.pmmp.io/p/Customgui) 
 A powerful and flexible custom GUI system for PocketMine-MP 5.x that allows server administrators to create interactive graphical user interfaces with various actions and customizations.
 
 ## 🌟 Features
