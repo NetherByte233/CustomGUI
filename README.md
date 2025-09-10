@@ -174,25 +174,6 @@ GUIs are stored as JSON files in the `plugin_data/customgui/guis/` directory. Ea
   }
 }
 ```
-
-## 🔄 Migration from Old Versions
-
-If you're upgrading from an older version of the plugin, your GUI data will be automatically migrated from the old `resources/guis/` directory to the new `plugin_data/customgui/guis/` directory.
-
-### Manual Migration
-If automatic migration doesn't work, you can manually migrate your data:
-
-1. **Manual File Copy**
-   - Copy all `.json` files from `plugins/Customgui/resources/guis/` 
-   - Paste them into `plugin_data/customgui/guis/`
-   - Restart your server
-
-### Why This Change?
-This change was necessary because:
-- **PHAR Compatibility**: When the plugin is compiled into a .phar file, the `resources/` directory becomes read-only
-- **Better Organization**: Plugin data is now properly stored in the plugin's data folder
-- **Server Standards**: Follows PocketMine-MP best practices for data storage
-
 ## 🎯 Examples
 
 ### Welcome Menu GUI
